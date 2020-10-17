@@ -1,4 +1,4 @@
---Estructura con funcion mergeSort---
+(*Estructura con funcion mergeSort*)
 
 fun mergeSort [ ] = [ ]
  |  mergeSort [a] = [a]
@@ -10,7 +10,7 @@ fun mergeSort [ ] = [ ]
 
        end;
 
---Para cualquier lista--
+(*Para cualquier lista*)
 
 fun mergeSort [ ] = [ ]
  |  mergeSort [a] = [a]

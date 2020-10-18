@@ -83,3 +83,5 @@ strip(1, [1,2,3,1,1])
 strip(1, [2,3,1,1])
 [2,3,1,1]
 ```
+
+:next_track_button: [Programming Languages: Standard ML - 4](4-MapTypesAndTuples.md)

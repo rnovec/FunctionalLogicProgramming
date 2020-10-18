@@ -1,5 +1,8 @@
 # Programming Languages: Standard ML - 1
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbdi8aNvDqlKKXdG7qn0rQsfH0z1hf7FC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## ML vs. Scheme
 
 - Sintax in ML is more "conventional" (Scheme has **prefix** sintax)
@@ -37,3 +40,4 @@ hd([1,2,3]) = 1
 tl([1,2,3]) = [2,3]
 1::[2,3] = [1,2,3]
 ```
+:next_track_button: [Programming Languages: Standard ML - 2](2-Recursion.md)

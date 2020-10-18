@@ -1,5 +1,7 @@
 # Programming Languages: Standard ML - 4
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c5yWwSm7gBg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ```sml
 fun map f [] = []
 |   map f (a::y) = (f a)::(map f y);
@@ -86,11 +88,13 @@ fun succ n = n + 1;
 ```
 
 #### Typed tuples
-- Product A * B (Tuple)
+
+- Product A \* B (Tuple)
+
   - an ordered pair (a,b)
     - a is of type A, b is of type B
     - (1, "one")
-  - Product A * B * C
+  - Product A _ B _ C
     - An ordered 3-tuple
 
 - Sometimes, types must be specified; especially when overloadings is used:
@@ -102,7 +106,6 @@ fun succ n = n + 1;
 
 ### Polymorphism
 
-
 ```sml
 fun l(x)=x;
 - val l = fn : 'a -> 'a
@@ -111,6 +114,7 @@ fun l(x)=x;
 type of l is a fucntion from any type to any type: $\infty$ to $\infty$
 
 Example:
+
 ```sml
 l(3);
 l([1,2,3]);

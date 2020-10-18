@@ -1,5 +1,7 @@
 # Programming Languages: Standard ML - 2
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JTgYxByRDC4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## NOTAS RAPIDAS DEL PRIMER VIDEO
 
 f g x = (f ° g)(x) // Notación matemática NO la acepta el REPL de SML
@@ -115,4 +117,5 @@ reverse [3,4] @ [2] @ [1]
 reverse [4] @ [3] @ [2] @ [1]
 reverse [] @ [4] @ [3] @ [2] @ [1]
 ```
+
 :next_track_button: [Programming Languages: Standard ML - 3](3-CasesAndPatterns.md)

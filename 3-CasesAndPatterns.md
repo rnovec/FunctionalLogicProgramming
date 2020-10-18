@@ -1,6 +1,6 @@
 # Programming Languages: Standard ML - 3
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m8NBB0HH2xM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/m8NBB0HH2xM
 
 ## Cases and Patterns
 

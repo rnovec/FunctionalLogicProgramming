@@ -1,6 +1,7 @@
 # Programming Languages: Standard ML - 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbdi8aNvDqlKKXdG7qn0rQsfH0z1hf7FC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/videoseries?list=PLbdi8aNvDqlKKXdG7qn0rQsfH0z1hf7FC
+
 
 
 ## ML vs. Scheme

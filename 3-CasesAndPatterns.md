@@ -97,5 +97,6 @@ strip(1, [1,2,3,1,1])
 strip(1, [2,3,1,1])
 [2,3,1,1]
 ```
+:previous_track_button: [Programming Languages: Standard ML - 2](2-Recursion.md)
 
 :next_track_button: [Programming Languages: Standard ML - 4](4-MapTypesAndTuples.md)

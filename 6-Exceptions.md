@@ -46,4 +46,10 @@ fun member2(a, x) = member(a, x) handle
 - Unit is a basic type in ML
     - Similar to C/C++
     - Unit has one value: ()
-- 
+- It is used as an argument in a function which takes no arguments:
+
+```sml
+fun hello() = "hello world";
+- val hello = fn : unit -> string
+- hello() takes one argument, namely Unit
+```

@@ -1,0 +1,16 @@
+(* This is an OCaml editor.
+Enter your program here and send it to the toplevel using the "Eval code"
+button. *)
+
+(*let promedio a b =
+(a +. b)/. 2.0 ;;
+
+let average a b =
+(a + b)/ 2 ;; *)
+
+(*let promedio2 a b =
+(a + b)/. 2.0 ;; *)
+
+let rec range a b =
+if a > b then []
+else a :: range (a+1) b;;
